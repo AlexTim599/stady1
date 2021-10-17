@@ -1,0 +1,45 @@
+ @media screen and (max-width: 1200px) {
+     #slider {
+         top: 60px;
+         padding: 15px;
+     }
+     #article img {
+         max-width: 60%;
+         border-radius: 15px;
+     }
+     #active {
+         text-align: center;
+         letter-spacing: 15px;
+         max-width: 770px;
+     }
+     #overflow {
+         border-radius: 15px;
+     }
+     #active label {
+         width: 12px;
+         height: 12px;
+     }
+ }
+ 
+ @media screen and (max-width: 500px) {
+     #slider {
+         top: 60px;
+         padding: 15px;
+     }
+     #article img {
+         max-width: 60%;
+         border-radius: 15px;
+     }
+     #active {
+         text-align: center;
+         letter-spacing: 15px;
+         max-width: 770px;
+     }
+     #overflow {
+         border-radius: 15px;
+     }
+     #active label {
+         width: 10px;
+         height: 10px;
+     }
+ }
